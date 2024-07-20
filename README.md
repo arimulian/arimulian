@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Muliansyah Manurung</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Iam a Junior Software Engineer</h3>
 
 - 📫 How to reach me **arimuliansyahmanurung@gmail.com**
 
